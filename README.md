@@ -2,6 +2,7 @@
 
 Pre-installed programs: node,mongodb
 
-Before running app node_modules required
+Before running add node_modules in
+
 run through----
     npm start
